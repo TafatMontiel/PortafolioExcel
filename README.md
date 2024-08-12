@@ -7,7 +7,8 @@
 
 #### 2. Seguimiento de KPI en formato sencillo para uso diario.
 
-![kpi](https://github.com/user-attachments/assets/2a26e99f-3e72-4b77-9eb2-05d6416774e8)
+![kpi](https://github.com/user-attachments/assets/2a1192a8-d97e-424a-a0bd-67bf35c791c5)
+
 
 
 
