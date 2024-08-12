@@ -5,4 +5,7 @@
 ![DashboardExcel](https://github.com/user-attachments/assets/ae25c47c-5b2a-4799-9173-4e48690c16e7)
 
 
-2. 
+#### 2. Seguimiento de KPI en formato sencillo para uso diario.
+
+![Seguimientokpi](https://github.com/user-attachments/assets/b375c632-bd4b-47c0-b8de-b3944ac09c4e)
+
